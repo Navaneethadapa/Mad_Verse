@@ -39,7 +39,7 @@ const Footer = () => (
             MADVERSES
           </h4>
           <p className="font-normal text-[14px] text-white opacity-50">
-            Made with ❤️ Navaneeth Adapa
+            Made with ❤️ Navaneeth Sai Adapa
           </p>
 
           <div className="flex gap-4">
